@@ -1,0 +1,13 @@
+/Volumes/SSD_02/Desarrollo_Rust/actix-gcd/target/debug/deps/tracing-024cf59133ebb029.rmeta: /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/lib.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/macros.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/dispatcher.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/field.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/instrument.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/level_filters.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/span.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/stdlib.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/subscriber.rs
+
+/Volumes/SSD_02/Desarrollo_Rust/actix-gcd/target/debug/deps/tracing-024cf59133ebb029.d: /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/lib.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/macros.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/dispatcher.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/field.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/instrument.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/level_filters.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/span.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/stdlib.rs /Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/subscriber.rs
+
+/Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/lib.rs:
+/Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/macros.rs:
+/Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/dispatcher.rs:
+/Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/field.rs:
+/Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/instrument.rs:
+/Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/level_filters.rs:
+/Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/span.rs:
+/Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/stdlib.rs:
+/Users/mauricio/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/subscriber.rs:
