@@ -28,8 +28,9 @@
 //   the functionality for that menu in isolation.
 // * A vector is the easiest way to store the bills at stage 1, but a
 //   hashmap will be easier to work with at stages 2 and 3.
+
 use std::collections::HashMap;
-use std::{io};
+use std::io;
 
 #[derive(Debug, Clone)]
 pub struct Bill {
